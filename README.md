@@ -1,24 +1,5 @@
-# new-project
+To whom it may concern:
 
-## Project setup
-```
-npm install
-```
+Assuming Node.js v16.3.0 is installed, kindly run 'npm install' at the root folder of the app, followed by 'npm run serve' at the same location. The application can then be accessed on localhost:8080.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Thank you!
