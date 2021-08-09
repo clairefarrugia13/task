@@ -1,0 +1,18 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 35%;
+    border: 1px solid #ddd;
+    font: $content-font;
+    float: left;
+}
+  
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    color: $secondary;
+}
